@@ -1,14 +1,14 @@
-Item Number,Quantity,Part Number,Part Name,Revision,Comment
-1,1,,Knee motor brace,,Printed
-2,3,,Shaft 5x30,,
-3,2,,Idler GT2 smooth,,
-4,3,,Bearing 5x10x4,,
-5,1,,Elbow outer,,Printed
-6,1,,Bolt M3x6 socket,,
-7,1,,AS5600 magnetic sensor module,,
-8,1,,Elbow,,
-9,1,,Knee belt,,
-10,1,,Wrist thin,,Printed
-11,1,,Pulley GT2 20T,,
-12,1,,Motor shaft,,
-13,1,,Pulley GT2 60T,,
+Quantity,Part Number,Part Name,Revision,Comment,Estimated Cost
+1,,Knee motor brace,,Printed,
+3,,Shaft 5x30,,aliexpress: .5e x 3,1.5
+2,,Idler GT2 smooth,,aliexpress: 1e x 2,2
+3,,Bearing 5x10x4,,aliexpress:  .3e x 3,1
+1,,Elbow outer,,Printed,
+14,,Bolt M3x6 socket,,,
+1,,AS5600 magnetic sensor module,,aliexpress: 2.6 x 1,2.6
+1,,Elbow,,Printed,
+1,,Knee belt,,aliexpress: 1.2e x1,1.2
+1,,Wrist thin,,Printed,
+1,,Pulley GT2 20T,,aliexpress:  .4e x1,0.4
+1,,Motor shaft,,Comes with motor,
+1,,Pulley GT2 60T,,aliexpress:  3.4e x1,3.4
