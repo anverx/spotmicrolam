@@ -1,7 +1,7 @@
 # spotmicrolam
 SportMicroAI the lean and mean edition.
 The design is inspired by MicroSpotAI but developed from scratch.
-![Logo](/images/sma_lam 1.png)
+![Logo](/images/sma_lam_1.png)
 
 Design goals of the project:
 * Sheap, under 500e, ideally towards 300e
