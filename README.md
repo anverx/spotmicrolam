@@ -14,7 +14,7 @@ The ESC however are geared towards flying, they offer no reverse rotation or hol
 
 ## Key Ingredients
 * 5010 BLDC motors, ~14e per piece
-* Some vldc driver ~10e per piece if i can make HMBGC work, may need something else for more current
+* Some bldc driver ~10e per piece if i can make HMBGC work, may need something else for more current
 * Rotary encoder, at the moment AS5600, readymade module (~2e a piece)
 * Bearings, pulleys, belts, shafts etc. under 30e per leg
 * Carbon fiber pipes for body structure ~40e
