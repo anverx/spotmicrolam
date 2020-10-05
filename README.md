@@ -4,8 +4,10 @@ The design is inspired by MicroSpotAI but developed from scratch.
 ![Logo](/images/sma_lam_2.png)
 
 ## Design goals of the project:
-* Sheap, under 500e, ideally towards 300e
+* Cheap, under 500e, ideally towards 300e
 * Off the shelf components and 3D printed parts only
+* Designed parts optimized for easy printing, minimal or no supports
+* Optimize for weight as the motors are underpowered
 * bldc motors
 
 ## Challenges:
