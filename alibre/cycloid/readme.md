@@ -1,0 +1,16 @@
+# Poorman's guide to caluclating the cycloid shape
+
+* There is good reference [video on cycloids](https://www.youtube.com/watch?v=SWIx3GgqrAg)
+
+* Compute the formulas using [the calculator](http://www.otvinta.com/cycloid.html), you will need the following parameters:
+  * outer diameter
+  * pin diameter
+  * pin number
+  * excentricity
+* Graph the firmulas and save as svg using an online [graphing calulator](http://fooplot.com/)
+  * use the parametric plot option
+  * paste the formulas for x and y from the previous steps (change `u` to `s` where appropriate)
+  * set the step to 0.001 (or less)
+  * in the display section untick grid, axes, tick marks and numbers
+
+* If your CAD is unhappy with svgs [convert to dxf](https://cloudconvert.com/svg-to-dxf)
